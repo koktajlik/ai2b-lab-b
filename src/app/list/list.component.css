@@ -1,0 +1,30 @@
+input {
+  padding: 0.5rem;
+  border: 1px solid grey;
+}
+
+button {
+  padding: 0.5rem;
+  margin-left: 0.5rem;
+  border: 1px solid darkslategray;
+  background-color: darkslategray;
+  color: white;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+  margin-left: 1rem;
+}
+
+a:hover {
+  text-decoration: underline;
+}
